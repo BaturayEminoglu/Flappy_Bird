@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sprites\KusHareket.js">
+    <Files>
+      <File FileName="Assets\Sprites\KusAnime.js" Line="25" Column="14" />
+      <File FileName="Assets\Sprites\KusHareket.js" Line="80" Column="9" />
+      <File FileName="Assets\ArkaPlan.js" Line="39" Column="97" />
+      <File FileName="Assets\Engeller.js" Line="48" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
